@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>📂 Clandestine Memories on Our Journey - Gallery</title>
+    <link>http://localhost:1313/notre-histoire/clandestine-memories/</link>
+    <description>Recent content in 📂 Clandestine Memories on Our Journey - Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/notre-histoire/clandestine-memories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
